@@ -1,1 +1,1 @@
-# eloquentJs
+# Eloquent JavaScript Practice Repo
